@@ -395,9 +395,6 @@ button:hover {
     background-color: #d91d77; 
     padding: 60px 20px;
     text-align: center;
-    background-image: url(image/bg_3.jpg);
-    width:100%;
-    heigth:600px;
 }
 .overlay h6 {
     text-transform: uppercase;
@@ -804,4 +801,5 @@ nav button {
 }
 
 }
+
 
