@@ -83,7 +83,7 @@ nav ul li a:hover {
 nav img {
     object-fit: contain;
 }
-nav buton8 {
+nav button {
     padding: 10px 20px;
     background-color: #d91d77;
     color: white;
@@ -92,7 +92,7 @@ nav buton8 {
     font-size: 16px;
     font-weight: 700;
 }
-nav buton8:hover {
+nav button:hover {
     color: rgb(5, 5, 5);
     transition: 0.5s;
     transform: scale(1.1);
@@ -801,5 +801,6 @@ nav button {
 }
 
 }
+
 
 
